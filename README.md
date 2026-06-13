@@ -98,8 +98,3 @@ The system uses a custom multilingual dataset combining:
 - English clickbait headlines with expanded scoring
 - Hindi headlines with rule-based and synthetic scoring
 - Balanced distribution across all score levels
-
-## Contributing
-
-This project demonstrates the application of machine learning and AI for media analysis and content improvement.</content>
-<parameter name="filePath">c:\Users\skyline\OneDrive\Desktop\sensascore\README.md
